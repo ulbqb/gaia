@@ -23,7 +23,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/tendermint/tendermint v0.34.27
 	github.com/tendermint/tm-db v0.6.7
-	github.com/ulbqb/statelesskit v0.0.0-20230831143849-222c4b0217d8
+	github.com/ulbqb/statelesskit v0.0.0-20230901044953-902c8aaec64e
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1
 	google.golang.org/grpc v1.57.0
 )
